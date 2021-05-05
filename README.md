@@ -1,6 +1,6 @@
  # 0. About
-The experimental machine translation system developed by Paulius Staugaitis was used in the "Multimodal Machine Translation through visuals" final year project.
-This code repository was almost coming from Paulius's code repository, with only change in VMTClass in model.py which achieves attention mechanisms in it. 
+The experimental machine translation system developed by Paulius Staugaitis is used in the "Multimodal Machine Translation through visuals" final year project.
+This code repository is almost coming from Paulius's code repository, with only change in VMTClass in model.py which achieves attention mechanisms in it. 
 
 The following documentation describes how to set up the environment and run the translation software.
 
